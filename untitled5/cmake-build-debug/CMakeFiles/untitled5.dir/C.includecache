@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jai Narayana/CLionProjects/untitled5/check.c
+stdio.h
+-
+check.h
+C:/Users/Jai Narayana/CLionProjects/untitled5/check.h
+make_moves.h
+C:/Users/Jai Narayana/CLionProjects/untitled5/make_moves.h
+set_board.h
+C:/Users/Jai Narayana/CLionProjects/untitled5/set_board.h
+winner.h
+C:/Users/Jai Narayana/CLionProjects/untitled5/winner.h
+
+C:/Users/Jai Narayana/CLionProjects/untitled5/check.h
+
+C:/Users/Jai Narayana/CLionProjects/untitled5/main.c
+set_board.h
+C:/Users/Jai Narayana/CLionProjects/untitled5/set_board.h
+make_moves.h
+C:/Users/Jai Narayana/CLionProjects/untitled5/make_moves.h
+
+C:/Users/Jai Narayana/CLionProjects/untitled5/make_moves.c
+stdio.h
+-
+string.h
+-
+check.h
+C:/Users/Jai Narayana/CLionProjects/untitled5/check.h
+make_moves.h
+C:/Users/Jai Narayana/CLionProjects/untitled5/make_moves.h
+
+C:/Users/Jai Narayana/CLionProjects/untitled5/make_moves.h
+
+C:/Users/Jai Narayana/CLionProjects/untitled5/set_board.c
+stdio.h
+-
+
+C:/Users/Jai Narayana/CLionProjects/untitled5/set_board.h
+
+C:/Users/Jai Narayana/CLionProjects/untitled5/winner.c
+stdio.h
+-
+ctype.h
+-
+time.h
+-
+
+C:/Users/Jai Narayana/CLionProjects/untitled5/winner.h
+
